@@ -1,5 +1,3 @@
 package models;
 
-public enum ExperimentalTypes {
-     HIGH_ALTITUDE, VTOL
-}
+public enum ExperimentalTypes { HIGH_ALTITUDE, VTOL }
